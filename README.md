@@ -8,6 +8,8 @@
 
 * https://github.com/dwu/riemann-demo
 
+* https://github.com/aphyr/distsys-class
+
 ### dash foo
 
 timeseries -> (service = "testing")
